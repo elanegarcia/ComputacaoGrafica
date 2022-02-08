@@ -1,0 +1,15 @@
+Projeto II de Computação Gráfica 2021.4
+
+Elane Garcia - 201511140030 - Sistemas de Informação
+Yury Souza - 201104940036 - Ciência da Computação
+
+Esse trabalho foi feito utilizando a linguagem python e a biblioteca Panda3D, 
+também foi utilizando o blender para auxilio ao posicionamento dos objetos já que utiliza o mesmo sistemas de coordenadas que o Pandas3D, e as imagens png foram obtidas 
+
+A cena é composta por um loop de frames onde há movimento de camera, luz, sombras
+assim como referências de campos de visões diferentes e angulos diferentes
+
+as vacas utilizadas compartilham o mesmo .obj pois representam o mesmo objeto sendo apenas diferentes pelas texturas de seus respectivos .png
+o movimento que o pato faz é baseado onde apenas um eixo é movimentado em função do tempo de cada frame
+
+
